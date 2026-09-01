@@ -1,2 +1,2 @@
 # focinhofeliz
-Projeto Educacional - Disciplina Fundamentos de Desenvolvimento Web CEET Vasco Coutinho
+Projeto Educacional - Disciplina Fundamentos de Desenvolvimento Web CEET - Vasco Coutinho
